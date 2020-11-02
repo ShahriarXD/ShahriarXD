@@ -17,7 +17,7 @@ This is the place where I opensource stuff and break things 🤣
 </p>
   
 ### ⚡ GitHub Stats
-![ShahriarXD github stats](https://github-readme-stats.vercel.app/api?username=ShahriarXD&count_private=true&hide=prs,issues,contribs&theme=radical)
+![ShahriarXD github stats](https://github-readme-stats.vercel.app/api?username=ShahriarXD&count_private=true&hide=prs,issues,contribs&theme=radical&show_icons=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarXD&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarXD&layout=compact&langs_count=8)
