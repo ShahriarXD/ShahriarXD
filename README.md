@@ -3,7 +3,7 @@ This is the place where I opensource stuff and break things 🤣
 
 - 🔭 I’m currently working on something cool 😉
 - 🌱 I’m currently learning AI, ML and Blockchain
-- 💬  Ask me about anything related to Python/Cracking/Hacking/Web Development or Tech Related Stuff
+- 💬  Ask me about anything related to Python/Cracking/Hacking/Web Development/Linux and Server or Tech Related Stuff
 - 📫 How to reach me: Discord at shahriar#0007
 
 ### Connect with me:
