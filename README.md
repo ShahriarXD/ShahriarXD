@@ -20,4 +20,4 @@ This is the place where I opensource stuff and break things 🤣
 ![ShahriarXD github stats](https://github-readme-stats.vercel.app/api?username=ShahriarXD&count_private=true&hide=prs,issues,contribs&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarXD)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarXD&layout=compact)
