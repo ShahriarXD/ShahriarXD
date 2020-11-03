@@ -21,6 +21,3 @@ This is the place where I opensource stuff and break things 🤣
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahriarXD&layout=compact&langs_count=8)
-
-
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShahriarXD)
