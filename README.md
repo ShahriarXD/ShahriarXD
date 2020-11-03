@@ -7,15 +7,9 @@ This is the place where I opensource stuff and break things 🤣
 - 📫 How to reach me: Discord at shahriar#0007
 
 ### Connect with me:
-<p>
-  <img src="https://media.discordapp.net/attachments/658363539966263336/772770621163307058/e56460962853.png" width="20" title="DISCORD"> 
-  <a href="https://discord.gg/shm9VzP" target="_blank">shahriar#0007</a> 
-</p>
-<p>
-  <img src="https://media.discordapp.net/attachments/658363539966263336/772772852554399744/image-removebg-preview.png" width="20" title="EMAIL">
-  <a href="mailto:progamenoname@gmail.com">Send Email
-</p>
-  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ShahriarXD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/shahriar103//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/wehacktoprotect)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shahriar_xd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCWRaW2SNTfoLhqauJ4fexOw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/shm9VzP)  
+
+
 ### ⚡ GitHub Stats
 ![ShahriarXD github stats](https://github-readme-stats.vercel.app/api?username=ShahriarXD&count_private=true&hide=prs,issues,contribs&theme=radical&show_icons=true)
 
