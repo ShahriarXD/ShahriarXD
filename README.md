@@ -1,6 +1,9 @@
 ### Hi there 👋, my name is I'm Shahriar Hossain - aka ShahriarXD
 #### I am a Penetration Tester.
-![I am a Penetration Tester.](https://cdn.discordapp.com/attachments/770866011401486346/773147856156098570/giphy.gif)
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/770866011401486346/773147856156098570/giphy.gif" title="hover text">
+</p>
 
 This is the place where I opensource stuff and break things. 🤣
 
